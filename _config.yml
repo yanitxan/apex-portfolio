@@ -1,0 +1,9 @@
+title: Student Name | Apex Portfolio
+description: Creative Computing and Cybersecurity student portfolio
+
+baseurl: "/apex-portfolio"
+
+markdown: kramdown
+
+exclude:
+  - README.md
