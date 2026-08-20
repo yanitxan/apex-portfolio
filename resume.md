@@ -7,31 +7,24 @@ title: Resume
 
 Boulder, Colorado
 yanitxann@gmail.com  
-https://github.com/yanitxan   
-[Portfolio and/or LinkedIn link]
+[https://github.com/yanitxan](https://github.com/yanitxan)   
+
 
 [Download a PDF version](assets/documents/firstname-lastname-resume.pdf)
 
 ## Professional Summary
 
-**Cybersecurity** student building experience in **programming, networking, cybersecurity, system administration, and interactive technology**. Demonstrates strengths in **problem-solving, technical communication, collaboration, troubleshooting, design, CAD, and PCB Desing]**. Interested in pursuing **Electrical Engineering**.
+**Cybersecurity** student building experience in **programming, networking, cybersecurity, system administration, and interactive technology**. Demonstrates strengths in **problem-solving, technical communication, collaboration, troubleshooting, design, CAD, and PCB Designing**. Interested in pursuing **Electrical Engineering**.
 
 ## Skills
 
 ### Programming and Development
 
 - **Languages:** Python, C++
-- **Development tools:** GitHub, Git, KiCad, Solidworks, Onshape]
+- **Development tools:** GitHub, Git, KiCad, Solidworks, Onshape
 - **Platforms:** Linux, Windows, Arduino-compatible microcontrollers
 
-### Cybersecurity and Networking
 
-- **Networking:** [IPv4 addressing, subnetting, switching, routing, VLANs]
-- **Security:** [Access control, system hardening, logging, vulnerability identification]
-- **Tools:** [Wireshark, Packet Tracer, Linux command line, virtualization platform]
-
-### Language Skills
-- World language and proficiency 
 
 > Delete categories that do not apply. Add specific skills only when you can explain or demonstrate them.
 
