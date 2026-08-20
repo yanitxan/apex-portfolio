@@ -3,26 +3,26 @@ layout: default
 title: Resume
 ---
 
-# [Student Name]
+# Yanitxan Arellano Argumedo
 
-[City, State]  
-[School-approved or professional email]  
-[GitHub profile link]  
+Boulder, Colorado
+yanitxann@gmail.com  
+https://github.com/yanitxan   
 [Portfolio and/or LinkedIn link]
 
 [Download a PDF version](assets/documents/firstname-lastname-resume.pdf)
 
 ## Professional Summary
 
-**[Creative Computing / Cybersecurity]** student building experience in **[programming, networking, cybersecurity, system administration, interactive technology, physical computing, or another area]**. Demonstrates strengths in **[problem-solving, technical communication, collaboration, troubleshooting, design, or another strength]**. Interested in pursuing **[career, college major, certification, internship, or other goal]**.
+**Cybersecurity** student building experience in **programming, networking, cybersecurity, system administration, and interactive technology**. Demonstrates strengths in **problem-solving, technical communication, collaboration, troubleshooting, design, CAD, and PCB Desing]**. Interested in pursuing **Electrical Engineering**.
 
 ## Skills
 
 ### Programming and Development
 
-- **Languages:** [Python, C, C++]
-- **Development tools:** [GitHub, Git, Visual Studio Code, Unreal Engine]
-- **Platforms:** [Linux, Windows, Arduino-compatible microcontrollers]
+- **Languages:** Python, C++
+- **Development tools:** GitHub, Git, KiCad, Solidworks, Onshape]
+- **Platforms:** Linux, Windows, Arduino-compatible microcontrollers
 
 ### Cybersecurity and Networking
 
