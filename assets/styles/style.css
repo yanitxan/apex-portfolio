@@ -19,14 +19,16 @@
 }
 
 .dark-mode {
-    --bg-color: #0A0A0A;
-    --text-color: #f5f5f5;
-    --button-bg: #333333;
-    --button-text: #f5f5f5;
-    --apex-navy: white;
-    --apex-blue: #0A0A0A;
-   
-    color-scheme: dark; 
+  --background-color: #0A0A0A;
+  --text-color: #F5F5F5;
+  --muted-text: #C8D1D8;
+  --border-color: #2F3740;
+  --apex-navy: #F5F5F5;
+  --apex-blue: #7DB6FF;
+  --apex-blue-light: #101B2E;
+  --apex-blue-lighter: #111C2A;
+
+  color-scheme: dark;
 }
 
 
@@ -165,10 +167,28 @@ a:focus {
 }
 
 .site-nav a:hover,
-.site-nav a:focus {
+.site-nav a:focus,
+.site-nav button:hover,
+.site-nav button:focus {
   background: var(--apex-blue);
 
   color: #FFFFFF;
+}
+
+.site-nav button {
+  display: block;
+
+  padding: 1rem 1.25rem;
+
+  background: transparent;
+  color: #FFFFFF;
+
+  border: 0;
+
+  font: inherit;
+  font-weight: 600;
+
+  cursor: pointer;
 }
 
 /* Image formatting */

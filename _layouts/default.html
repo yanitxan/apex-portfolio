@@ -17,7 +17,7 @@
     {% endif %}
     {{ site.title }}
   </title>
-    <script src="script.js" defer></script>
+  <script src="{{ '/assets/styles/script.js' | relative_url }}" defer></script>
   <link
     rel="stylesheet"
     href="{{ '/assets/styles/style.css' | relative_url }}"
@@ -40,9 +40,10 @@
       </li>
       <li>
         <a href="{{ '/contact.html' | relative_url }}">Contact</a>
-         <li>
-        <button id="theme-toggle">Toggle Dark Mode</button>
-    </li>
+      </li>
+      <li>
+        <button id="theme-toggle" type="button">Dark Mode</button>
+      </li>
     </ul>
    
   </nav>
