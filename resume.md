@@ -26,7 +26,7 @@ yanitxann@gmail.com
 
 
 
-> Delete categories that do not apply. Add specific skills only when you can explain or demonstrate them.
+
 
 
 ## Selected Projects
