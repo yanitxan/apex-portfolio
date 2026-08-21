@@ -23,10 +23,11 @@
   --text-color: #F5F5F5;
   --muted-text: #C8D1D8;
   --border-color: #2F3740;
-  --apex-navy: #0A0A0A;
+  --apex-navy: #F5F5F5;
   --apex-blue: #0A0A0A;
   --apex-blue-light: #101B2E;
   --apex-blue-lighter: #111C2A;
+  
 
   color-scheme: dark;
 }
